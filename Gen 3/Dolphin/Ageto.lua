@@ -130,7 +130,7 @@ function onScriptStart()
 end
 
 function onScriptUpdate()
- if initSeed <= 2 then
+ if initSeed <= 3 then
   getInitialSeed()
  end
 
